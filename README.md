@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Angular CLI v1.6.3
 * Angular v5.1.2
 * Angular Fire 2 v5.0.0-rc.4
-* Firebase CLI v 3.16.0
+* Firebase CLI v3.16.0
 * Firebase v4.8.0
 
 ## Installing the Project
