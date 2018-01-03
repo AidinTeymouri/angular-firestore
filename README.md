@@ -1,6 +1,11 @@
 # Angular Firestore
 This project is the result of my code-along at the end of the video series [Angular & FireStore Application](https://www.youtube.com/watch?v=gUmItHaVL2w&list=PLillGF-RfqbaISD5mxDCIjsSYk4jbiXi4) by *Brad Traversy*.  His original code repo may be found [here](https://github.com/bradtraversy/angularfs).  My code is similar, but has several minor design changes.  Instructions on how to deploy this code to Firebase are included.
 
+<p align="center">
+    <img width="500" height="341" src="./src/assets/png/homepage.png"><br>
+    <a href="https://firestoreapp-a978a.firebaseapp.com/" target="_blank">Firestore Item Manager</a>
+</p>
+
 ## Versions Used
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 * Angular CLI v1.6.3
