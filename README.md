@@ -3,7 +3,6 @@ This project is the result of my code-along at the end of the video series [Angu
 
 <p align="center">
     <img width="500" height="341" src="./src/assets/png/homepage.png"><br>
-    <a href="https://firestoreapp-a978a.firebaseapp.com/" target="_blank">Firestore Item Manager</a>
 </p>
 
 ## Versions Used
